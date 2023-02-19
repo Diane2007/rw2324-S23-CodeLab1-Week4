@@ -1,5 +1,10 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# A function I wrote for Studio II
 
-DO NOT LEAVE IT LIKE THIS!!!
+We have multiple game objects holding different audio sources, and we want to be able to turn off/on each object's audio individually, and toggle on/off all audio with the following conditions:
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+If there is a single audio playing, press space to mute all audio sources.
+If there is no audio playing, press space to unmute all audio sources.
+
+If E is pressed and mouse is over an individual game object, turn on or off that object's audio source.
+
+The mute/unmute all objects' audio took me longer to figure out. But it used the for loop and I'm proud of myself.
